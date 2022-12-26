@@ -1,5 +1,5 @@
 # Salkar
-<h1>Biggest text/h1>
+<h1>Biggest text</h1>
 <h2>Big text</h2> etc to h6
 <p>Paragraph</p>
 <strong>Bold text</strong>
